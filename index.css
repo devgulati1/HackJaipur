@@ -1,11 +1,12 @@
 body{
     background: linear-gradient(to right,lightgreen,white);
-    
+   
   
 
 }
 .Login{
 height: 50vh;
 width: 30%;
+margin-left: auto;
 
 }
