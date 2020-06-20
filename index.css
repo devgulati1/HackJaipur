@@ -1,9 +1,11 @@
+
 body{
     background: linear-gradient(to right,lightgreen,white);
    
-    
 
 }
+
+
 .logincontainer {
     height: 100vh;
     display: flex;
@@ -15,6 +17,8 @@ body{
 .Login{
 height: 50%;
 width: 30%;
+padding: 0px;
+
 
 
 }
